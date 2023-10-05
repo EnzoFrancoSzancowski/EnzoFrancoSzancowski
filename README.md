@@ -1,16 +1,16 @@
-### Hi there 👋
+### Seja bem vindo(a) ao meu perfil 👋
 
-<!--
-**EnzoFrancoSzancowski/EnzoFrancoSzancowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Enzo Franco Szancowskie sou apaixonado por tecnologia 💻❤
 
-Here are some ideas to get you started:
+Aqui você irá encontrar todos os projetos do meu portfólio além diversos projetos 📸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou Estudando:
+- Desenvolvimento de Páginas da Web
+- Programação de Aplicativos
+
+###   Para Contatos 📥
+contatosenzofranco@gmail.com
+
+Instagram: @enzoofzk
+
+![](https://media.tenor.com/1D5S8Qcl668AAAAM/thumbs-up-conspiracy.gif)
