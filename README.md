@@ -1,8 +1,8 @@
 ### Seja bem vindo(a) ao meu perfil 👋
 
-Me chamo Enzo Franco Szancowskie sou apaixonado por tecnologia 💻❤
+Me chamo Enzo Franco Szancowski e sou apaixonado por tecnologia 💻❤
 
-Aqui você irá encontrar todos os projetos do meu portfólio além diversos projetos 📸
+Aqui você irá encontrar todos os projetos do meu portfólio 📸
 
 Atualmente estou Estudando:
 - Desenvolvimento de Páginas da Web
